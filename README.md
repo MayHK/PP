@@ -40,3 +40,5 @@ GitHub may periodically update this policy. We will notify you about significant
 Questions
 
 Any questions about this Privacy Policy should be addressed to support@github.com.
+
+Hola!
