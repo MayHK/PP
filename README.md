@@ -2,6 +2,7 @@
 My first repo:)
 
 GitHub Privacy Policy
+
 General Information
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
@@ -12,6 +13,7 @@ Information Gathering and Usage
 
 When you register for GitHub we ask for information such as your name, email address, billing address, or payment information. Members who sign up for the free account are not required to enter any payment details.
 GitHub uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
+
 Cookies
 
 A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
